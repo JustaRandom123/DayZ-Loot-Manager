@@ -1,0 +1,49 @@
+C:\Users\Jonas\source\repos\LootManager\bin\Debug\LootManager.exe.config
+C:\Users\Jonas\source\repos\LootManager\bin\Debug\LootManager.exe
+C:\Users\Jonas\source\repos\LootManager\bin\Debug\LootManager.pdb
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.mapDownloader.resources
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.mapSettings.resources
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.PlayerspawnCreater.resources
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.spawnabletypes.resources
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.Form1.resources
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.playerSpawnItems.resources
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.Properties.Resources.resources
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.TraderChecker.resources
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.csproj.GenerateResource.cache
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.csproj.CoreCompileInputs.cache
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.exe
+C:\Users\Jonas\source\repos\LootManager\obj\Debug\LootManager.pdb
+D:\coding backup\LootManager\bin\Debug\LootManager.exe.config
+D:\coding backup\LootManager\bin\Debug\LootManager.exe
+D:\coding backup\LootManager\bin\Debug\LootManager.pdb
+D:\coding backup\LootManager\obj\Debug\LootManager.csproj.AssemblyReference.cache
+D:\coding backup\LootManager\obj\Debug\LootManager.csproj.SuggestedBindingRedirects.cache
+D:\coding backup\LootManager\obj\Debug\LootManager.mapDownloader.resources
+D:\coding backup\LootManager\obj\Debug\LootManager.mapSettings.resources
+D:\coding backup\LootManager\obj\Debug\LootManager.PlayerspawnCreater.resources
+D:\coding backup\LootManager\obj\Debug\LootManager.spawnabletypes.resources
+D:\coding backup\LootManager\obj\Debug\LootManager.Form1.resources
+D:\coding backup\LootManager\obj\Debug\LootManager.playerSpawnItems.resources
+D:\coding backup\LootManager\obj\Debug\LootManager.Properties.Resources.resources
+D:\coding backup\LootManager\obj\Debug\LootManager.TraderChecker.resources
+D:\coding backup\LootManager\obj\Debug\LootManager.csproj.GenerateResource.cache
+D:\coding backup\LootManager\obj\Debug\LootManager.csproj.CoreCompileInputs.cache
+D:\coding backup\LootManager\obj\Debug\LootManager.exe
+D:\coding backup\LootManager\obj\Debug\LootManager.pdb
+D:\Github\LootManager\bin\Debug\LootManager.exe.config
+D:\Github\LootManager\bin\Debug\LootManager.exe
+D:\Github\LootManager\bin\Debug\LootManager.pdb
+D:\Github\LootManager\obj\Debug\LootManager.csproj.AssemblyReference.cache
+D:\Github\LootManager\obj\Debug\LootManager.csproj.SuggestedBindingRedirects.cache
+D:\Github\LootManager\obj\Debug\LootManager.mapDownloader.resources
+D:\Github\LootManager\obj\Debug\LootManager.mapSettings.resources
+D:\Github\LootManager\obj\Debug\LootManager.PlayerspawnCreater.resources
+D:\Github\LootManager\obj\Debug\LootManager.spawnabletypes.resources
+D:\Github\LootManager\obj\Debug\LootManager.Form1.resources
+D:\Github\LootManager\obj\Debug\LootManager.playerSpawnItems.resources
+D:\Github\LootManager\obj\Debug\LootManager.Properties.Resources.resources
+D:\Github\LootManager\obj\Debug\LootManager.TraderChecker.resources
+D:\Github\LootManager\obj\Debug\LootManager.csproj.GenerateResource.cache
+D:\Github\LootManager\obj\Debug\LootManager.csproj.CoreCompileInputs.cache
+D:\Github\LootManager\obj\Debug\LootManager.exe
+D:\Github\LootManager\obj\Debug\LootManager.pdb
